@@ -4,6 +4,6 @@ Projeto da disciplina de Computação Gráfica para construção de um Tetraedro
 Desenvolvido em 2024/1<br>
 
 Alunos:<br>
-Gabriel Álvares Neto<br>
+Gabriel Alvares Neto<br>
 Hygor Oliveira Pancieri<br>
 Matheus Romano Miranda
